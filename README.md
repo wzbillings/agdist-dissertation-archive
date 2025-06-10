@@ -1,17 +1,10 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# agdist <img src="man/figures/logo.png" align="right" alt="" width="120" />
-
-<!-- badges: start -->
-
-[![R-CMD-check](https://github.com/ahagroup/agdist/workflows/R-CMD-check/badge.svg)](https://github.com/ahgroup/agdist/actions)
-[![test-coverage](https://github.com/ahgroup/agdist/workflows/test-coverage/badge.svg)](https://github.com/ahagroup/agdist/actions)
+# agdist
 <!-- badges: end -->
 
-**This package is still under active development. If you see this
-message, assume that several parts of the package don’t quite work
-yet.**
+**This is an archved version of this package that matches what I said it does in my dissertation. The actively maintained package is available here: [https://github.com/ahgroup/agdist](https://github.com/ahgroup/agdist).**
 
 ## Description
 
